@@ -1,4 +1,4 @@
-# mvp-depressao-e-redes-sociais
+# MVP Depressão e Redes Sociais
 
 Correlação entre Depressão Adolescente e Uso de Redes Sociais nos EUA (2011–2023)
 
