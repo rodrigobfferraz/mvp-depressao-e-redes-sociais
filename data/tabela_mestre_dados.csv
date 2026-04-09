@@ -1,0 +1,14 @@
+﻿ano,depressao_overall,depressao_feminino,depressao_masculino,online_constantly,usam_social_media,yrbs_real,pew_real,ambos_reais
+2011,28.5,35.9,21.5,12.0,55.0,True,False,False
+2012,29.2,37.5,21.15,15.0,62.0,False,False,False
+2013,29.9,39.1,20.8,18.0,68.0,True,False,False
+2014,29.9,39.45,20.55,21.0,72.0,False,False,False
+2015,29.9,39.8,20.3,24.0,76.0,True,True,True
+2016,30.7,40.45,20.85,31.0,80.33333333333333,False,False,False
+2017,31.5,41.1,21.4,38.0,84.66666666666667,True,False,False
+2018,34.1,43.85,23.75,45.0,89.0,False,True,False
+2019,36.7,46.6,26.1,45.25,90.5,True,False,False
+2020,39.5,51.8,27.3,45.5,92.0,False,False,False
+2021,42.3,57.0,28.5,45.75,93.5,True,False,False
+2022,41.0,55.0,28.25,46.0,95.0,False,True,False
+2023,39.7,53.0,28.0,46.0,93.0,True,True,True
