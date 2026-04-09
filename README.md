@@ -2,6 +2,8 @@
 
 > **MVP — Trabalho de Conclusão de Curso**
 > Análise descritivo-correlacional utilizando dados do CDC YRBS e Pew Research Center
+>
+> https://colab.research.google.com/drive/1cZfDDBzY1Nq2AvGJT9Wsh-RhQdccMIhC#scrollTo=6gGNHMxSIbdY
 
 ---
 
