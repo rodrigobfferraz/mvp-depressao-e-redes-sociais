@@ -7,7 +7,7 @@
 
 ---
 
-## Problema de pesquisa
+## Problema da Pesquisa
 
 *"Existe correlação estatisticamente significativa entre o aumento do uso de redes sociais e o aumento na prevalência de sintomas depressivos entre adolescentes norte-americanos (13–17 anos) no período de 2011 a 2023?"*
 
