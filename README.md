@@ -11,7 +11,7 @@
 
 *"Existe correlação estatisticamente significativa entre o aumento do uso de redes sociais e o aumento na prevalência de sintomas depressivos entre adolescentes norte-americanos (13–17 anos) no período de 2011 a 2023?"*
 
-## Principais resultados
+## Principais Resultados
 
 | Métrica | Valor | Significância |
 |---------|-------|---------------|
@@ -20,7 +20,7 @@
 | R² | 0.76 | 76% da variância explicada |
 | Robustez (sem 2021/COVID) | r = +0.88 | p = 0.0002 |
 
-### Gráficos gerados
+### Gráficos Gerados
 
 <p align="center">
   <img src="outputs/grafico1_tendencias_temporais.png" width="48%"/>
@@ -31,7 +31,7 @@
   <img src="outputs/grafico4_gap_genero.png" width="48%"/>
 </p>
 
-## Estrutura do repositório
+## Estrutura do Repositório
 
 ```
 mvp-depressao-redes-sociais/
@@ -62,7 +62,7 @@ mvp-depressao-redes-sociais/
     └── capitulo1_introducao.docx          ← Capítulo 1 — Introdução
 ```
 
-## Fontes de dados
+## Fontes de Dados
 
 | Fonte | Variável | Cobertura | Acesso |
 |-------|----------|-----------|--------|
@@ -72,7 +72,7 @@ mvp-depressao-redes-sociais/
 
 **Nota sobre coleta:** Os dados agregados do YRBS e do Pew Research foram extraídos manualmente dos relatórios oficiais publicados por cada instituição (não há API pública para esses surveys de adolescentes). As referências completas estão documentadas no plano de pesquisa e no notebook. Os dados brutos estão versionados em `data/tabela_mestre_dados.csv`.
 
-## Como executar
+## Como Executar
 
 ### Opção 1 — Google Colab (recomendado)
 
@@ -119,7 +119,7 @@ O projeto utiliza duas estratégias complementares:
 - Python 3.8+
 - pandas, numpy, scipy, matplotlib, seaborn
 
-## Referências principais
+## Referências Principais
 
 1. CDC. *Youth Risk Behavior Survey Data Summary & Trends Report: 2013–2023.* 2024.
 2. Pew Research Center. *Teens, Social Media and Technology 2024.* 2024.
