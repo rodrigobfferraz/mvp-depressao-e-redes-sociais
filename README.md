@@ -38,7 +38,7 @@ mvp-depressao-e-redes-sociais/
 ├── requirements.txt                   ← Dependências Python
 │
 ├── notebooks/
-│   └── MVP_Depressao_RedesSociais_Colab_v3.ipynb  ← Notebook principal (Colab-ready)
+│   └── MVP_Depressao_RedesSociais_Colab_v4.ipynb  ← Notebook principal (Colab-ready)
 │
 ├── scripts/
 │   ├── analise_depressao_redes_sociais.py  ← Análise de séries temporais (standalone)
@@ -75,7 +75,7 @@ mvp-depressao-e-redes-sociais/
 
 ### Opção 1 — Google Colab (recomendado)
 
-1. Abra `notebooks/MVP_Depressao_RedesSociais_Colab_v3.ipynb` no Google Colab
+1. Abra `notebooks/MVP_Depressao_RedesSociais_Colab_v4.ipynb` no Google Colab
 2. Execute **Runtime → Run all** (Ctrl+F9)
 3. Os microdados do YRBS 2023 são baixados automaticamente do repositório
 4. Todas as dependências já estão pré-instaladas no Colab
